@@ -13,7 +13,6 @@ function combineUsers(...args) {
   return combinedObject;
 }
 
-const combineUsers = require('./combineUsers');
 
 const siteA = ['alice', 'bob'];
 const siteB = ['charlie', 'diana'];
